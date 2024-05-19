@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj": {}
+    "C:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj": {
+    "C:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj",
+        "projectUniqueName": "C:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj",
         "projectName": "C2000-PP",
-        "projectPath": "c:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj",
+        "projectPath": "C:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\C2000-PP.csproj",
         "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\obj\\",
+        "outputPath": "C:\\Users\\Денис\\Documents\\C2000-PP-main\\C2000-PP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config"
